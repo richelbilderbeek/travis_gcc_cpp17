@@ -1,5 +1,3 @@
-#include <iostream>
-
 int main() 
 {
   static_assert("C++17");
