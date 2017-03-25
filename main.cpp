@@ -1,4 +1,7 @@
-int main()
+#include <iostream>
+
+int main() 
 {
-  static_assert("C++17"); //C++17 has a default message
+  static_assert("C++17");
+  std::cout << "Hello world\n";
 }
