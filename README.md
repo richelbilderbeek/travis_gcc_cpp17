@@ -2,7 +2,10 @@
 
 [![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp17)
+Branch|Status
+---|---
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp17)
+develop|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp17.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_gcc_cpp17)
 
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 
