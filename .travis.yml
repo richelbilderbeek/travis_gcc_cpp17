@@ -9,8 +9,8 @@ before_install:
 
 install: 
   # C++17
-  - sudo apt-get install -qq g++-8
-  - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-8 90
+  - sudo apt-get install -qq g++-7
+  - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-7 90
 
 script: 
   - g++ main.cpp -std=c++17 -o travis_gcc_cpp17
